@@ -1,0 +1,12 @@
+name: maize-ml
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - pandas==2.2.3
+      - numpy==2.1.3
+      - matplotlib==3.10.0
+      - seaborn==0.13.2
+      - scikit-learn==1.6.1
+      - jupyter==1.1.1
+      - openpyxl==3.1.5
